@@ -1,4 +1,3 @@
-# Important before start: This Readme file is AI-generated! I told AI what I wanted to put into this file, and AI helped me get the work done.
 - open the App here: https://double-sided-mirror-web.vercel.app/
 # Double_Sided_Mirror
 Double-Sided Mirror is a two-sided civic service platform designed for Pennsylvania residents and government staff. 
