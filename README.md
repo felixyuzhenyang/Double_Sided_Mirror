@@ -1,9 +1,8 @@
-- open the App here: https://double-sided-mirror-web.vercel.app/
 # Double_Sided_Mirror
 Double-Sided Mirror is a two-sided civic service platform designed for Pennsylvania residents and government staff. 
 On the Citizen side, users describe what they need in plain words, answer guided follow-up questions, and receive a structured action package with official links, required materials, and process flow.
 On the Staff side, government workers review citizen-consented cases, use AI-generated draft support, and publish human-authored final responses.
-
+- open the App here: https://double-sided-mirror-web.vercel.app/
 ## Project Structure
 
 ```text
