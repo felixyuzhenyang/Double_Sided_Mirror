@@ -29,7 +29,7 @@ Double_Sided_Mirror/
 - `assets/`: Static files such as images, icons, and reusable media.
 
 # About the App
-
+- open the App here: https://double-sided-mirror-web.vercel.app/
 ## 1. Quick Start: End-to-End Platform Workflow
 
 This section explains the full logic chain from first citizen input to final staff response.
