@@ -1,0 +1,83 @@
+[
+  {
+    "topic": "restaurant licensing",
+    "intentTags": ["restaurant", "food", "business", "license"],
+    "agency": "Pennsylvania Department of Agriculture",
+    "title": "Retail Food Facility Guidance",
+    "url": "https://www.agriculture.pa.gov/Food/Pages/default.aspx",
+    "publishedOrUpdated": "Official agency page",
+    "snippet": "Food businesses should coordinate permits and inspections with local and state authorities."
+  },
+  {
+    "topic": "liquor and alcohol sales",
+    "intentTags": ["restaurant", "alcohol", "liquor", "license"],
+    "agency": "Pennsylvania Liquor Control Board",
+    "title": "Licensing Information",
+    "url": "https://www.lcb.pa.gov/Legal/Licensing/Pages/default.aspx",
+    "publishedOrUpdated": "Official agency page",
+    "snippet": "Businesses that sell alcohol need the proper PLCB license and compliance steps."
+  },
+  {
+    "topic": "business registration and taxes",
+    "intentTags": ["business", "restaurant", "startup", "tax"],
+    "agency": "Pennsylvania Department of Revenue",
+    "title": "PA-100 Enterprise Registration",
+    "url": "https://www.pa100.state.pa.us/",
+    "publishedOrUpdated": "Official filing portal",
+    "snippet": "Register tax accounts and employer obligations through the official PA-100 process."
+  },
+  {
+    "topic": "business support",
+    "intentTags": ["business", "startup", "permit", "local"],
+    "agency": "Department of Community and Economic Development",
+    "title": "Business in PA",
+    "url": "https://dced.pa.gov/business-assistance/",
+    "publishedOrUpdated": "Official agency page",
+    "snippet": "Business support resources and local permitting coordination pathways."
+  },
+  {
+    "topic": "driver licensing",
+    "intentTags": ["driver", "driving", "license", "penndot", "learner permit", "real id"],
+    "agency": "Pennsylvania Department of Transportation",
+    "title": "Get a Driver License",
+    "url": "https://www.pa.gov/agencies/dmv/resources/get-a-drivers-license-in-pa.html",
+    "publishedOrUpdated": "Official PennDOT guidance",
+    "snippet": "Official Pennsylvania guidance for learner permit, road test, and driver license issuance."
+  },
+  {
+    "topic": "benefits application",
+    "intentTags": ["benefit", "welfare", "assistance", "snap", "medicaid"],
+    "agency": "Pennsylvania Department of Human Services",
+    "title": "COMPASS",
+    "url": "https://www.compass.state.pa.us/",
+    "publishedOrUpdated": "Official benefits portal",
+    "snippet": "Residents can apply for benefits and submit renewal information using COMPASS."
+  },
+  {
+    "topic": "unemployment compensation",
+    "intentTags": ["unemployment", "job", "benefit", "compensation"],
+    "agency": "Pennsylvania Department of Labor & Industry",
+    "title": "Unemployment Compensation",
+    "url": "https://www.uc.pa.gov/Pages/default.aspx",
+    "publishedOrUpdated": "Official agency page",
+    "snippet": "Official instructions for filing unemployment claims and managing claim status."
+  },
+  {
+    "topic": "general service navigator",
+    "intentTags": ["general", "service", "permit", "help"],
+    "agency": "Commonwealth of Pennsylvania",
+    "title": "PA.gov Services",
+    "url": "https://www.pa.gov/services/",
+    "publishedOrUpdated": "Official service directory",
+    "snippet": "Browse official Pennsylvania services by life event and agency."
+  },
+  {
+    "topic": "regulatory code",
+    "intentTags": ["regulation", "code", "compliance", "law"],
+    "agency": "Pennsylvania Code & Bulletin",
+    "title": "Pennsylvania Code and Bulletin",
+    "url": "https://www.pacodeandbulletin.gov/",
+    "publishedOrUpdated": "Official legal publication site",
+    "snippet": "Official access point for Pennsylvania regulations and bulletin notices."
+  }
+]

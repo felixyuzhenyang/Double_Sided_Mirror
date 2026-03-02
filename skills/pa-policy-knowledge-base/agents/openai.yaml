@@ -1,0 +1,4 @@
+interface:
+  display_name: "PA Policy Knowledge Base"
+  short_description: "Curate PA policy corpus and retrieval rules"
+  default_prompt: "Build and maintain a Pennsylvania-official policy corpus, source allowlist, and retrieval pipeline for the Double-Sided Mirror app."

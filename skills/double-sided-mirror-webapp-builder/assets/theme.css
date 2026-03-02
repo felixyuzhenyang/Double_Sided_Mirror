@@ -1,0 +1,22 @@
+:root {
+  --dsm-bg: #f3f6f8;
+  --dsm-surface: #ffffff;
+  --dsm-text: #102236;
+  --dsm-muted: #4f6478;
+  --dsm-primary: #114b7a;
+  --dsm-primary-strong: #0a3558;
+  --dsm-accent: #c5911a;
+  --dsm-success: #2f7d4e;
+  --dsm-warning: #a96a10;
+  --dsm-danger: #9e2f2f;
+  --dsm-border: #c8d4de;
+  --dsm-focus: #2b76b9;
+  --dsm-radius: 14px;
+  --dsm-shadow: 0 8px 24px rgba(16, 34, 54, 0.12);
+}
+
+/* Use Public Sans or Source Sans 3 for civic readability. */
+body {
+  color: var(--dsm-text);
+  background: radial-gradient(circle at 10% 10%, #ffffff 0%, var(--dsm-bg) 60%);
+}

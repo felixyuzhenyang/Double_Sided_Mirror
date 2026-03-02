@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gov Worker Response Assistant"
+  short_description: "Guide staff review and compliant case replies"
+  default_prompt: "Implement the government staff workflow that reviews synced citizen cases, generates AI draft replies, and enforces human-authored final responses."

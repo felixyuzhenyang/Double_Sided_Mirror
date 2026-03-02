@@ -1,0 +1,4 @@
+interface:
+  display_name: "YYZ Collaboration Protocol"
+  short_description: "Auto-sync logs and enforce YYZ collaboration rules"
+  default_prompt: "Follow YYZ collaboration rules for language, skill updates, and automatic conversation/code log synchronization in this repository."

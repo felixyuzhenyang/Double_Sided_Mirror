@@ -1,0 +1,4 @@
+interface:
+  display_name: "Double-Sided Mirror Builder"
+  short_description: "Build PA dual-mode AI service portal"
+  default_prompt: "Build or improve the Double-Sided Mirror web app with citizen and government workflows, policy-grounded guidance, and deployment-ready implementation."
