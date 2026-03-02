@@ -70,3 +70,7 @@ This section explains the full logic chain from first citizen input to final sta
 - Staff enters **Government Staff Mode**, reviews consented cases, and generates an AI-assisted draft.
 - Staff must rewrite/review and publish a **human-authored final response**.
 - The citizen then sees the official staff response in the same platform.
+
+## Special Thanks
+### I sent Felix, a brown teddy bear (probably older than me), to keep an eye on my screen, making sure Codex gets the work done so I have time to do something else. Let's thank Felix!
+![IMG_8502](https://github.com/user-attachments/assets/f9e504e1-fdbb-4472-82f7-4e829a324387)
